@@ -3,7 +3,7 @@ import authRoutes from "./auth.js";
 import bookRoutes from "./books.js";
 import chapterRoutes from "./chapters.js";
 import sectionRoutes from "./sections.js";
-import seedModelRoutes from "./seedmodel.js";
+import seedModelRoutes from "./seedModel.js";
 import userRoutes from "./users.js";
 
 const router = Router();
